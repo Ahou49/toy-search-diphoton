@@ -2,7 +2,8 @@
 
 M1 internship at LPCA (ATLAS group), 2025, supervised by Dr. Louie Corpe.
 Search for a new particle decaying to two photons in simulated LHC data.
-
+## Supervisors
+Louie Corpe
 ## Goal
 Build a complete analysis chain on simulated data: variable choice,
 selection, fit, significance – following a blind analysis strategy.
